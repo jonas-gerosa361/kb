@@ -1,2 +1,1 @@
-# kb
-Knowledge base with links and documentations that I found valuable.
+# Repository with documentations, links and other stufs that I found usefull.
