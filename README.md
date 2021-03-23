@@ -1,5 +1,5 @@
 🗽 **English**
-# Repository with documentations, links and other stufs that I found usefull as a quick reference.
+# Repository with documentations, links and other stuffs that I found usefull as a quick reference.
 
 
 🇧🇷 **Portuguese**
